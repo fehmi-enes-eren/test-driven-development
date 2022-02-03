@@ -49,4 +49,7 @@ test("clicking on button increments counter display", ()=>{})
 // Removing data-test Attributes
 //babel-plugin-react-remove-properties
 // npm run eject  --> makes the configuration files editable by us
-
+// Check package doc for usage ("with options one")
+// npm run build
+// npm install -g serve
+//serve -s build
